@@ -17,3 +17,5 @@
  - ##### MediatR.Extensions.Microsoft.DependencyInjection
  
  ![](https://github.com/cemozguraA/CQRS-Mediator-Pattern/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG?raw=true)
+ ![](https://github.com/cemozguraA/CQRS-Mediator-Pattern/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B11.PNG?raw=true)
+ 
